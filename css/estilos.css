@@ -1,0 +1,31 @@
+body{
+    color: #e5e5e5;
+    text-align: center;
+    background-color: #333;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 10em 0 0 10em;
+    padding: 0;
+    font-size: 16px;
+}
+
+
+.container { 
+    text-align: justify;
+    width: 70%;
+    padding: 1em;
+    border: 1px solid #e25b5b;
+    
+}
+
+#cabecera{
+    background-color: chocolate;
+    padding: 6px;
+    text-align: center;
+
+    padding: 10;
+}
+
+.P2{
+    color: #685;
+    font-size: 12px;
+}
