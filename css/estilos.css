@@ -1,7 +1,7 @@
 body{
     color: #e5e5e5;
     text-align: center;
-    background-color: #333;
+    background-color: #504545;
     font-family: Arial, Helvetica, sans-serif;
     margin: 10em 0 0 10em;
     padding: 0;
@@ -19,13 +19,20 @@ body{
 
 #cabecera{
     background-color: chocolate;
-    padding: 6px;
     text-align: center;
-
-    padding: 10;
+    padding: 1em;
 }
 
 .P2{
     color: #685;
     font-size: 12px;
+}
+
+footer{
+    text-align: center;
+    background-color: rgb(81, 81, 96);
+    color: white;
+    padding: .5em;
+    font-weight: bold;
+    font-size: 18px;
 }
