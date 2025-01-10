@@ -13,14 +13,14 @@ body{
     text-align: justify;
     width: 70%;
     padding: 1em;
-    border: 1px solid #e25b5b;
-    
+    border: 1px solid #e25b5b;    
 }
 
 #cabecera{
     background-color: chocolate;
     text-align: center;
     padding: 1em;
+    margin: 0 auto;
 }
 
 .P2{
@@ -30,9 +30,10 @@ body{
 
 footer{
     text-align: center;
-    background-color: rgb(81, 81, 96);
+    background-color: chocolate;
     color: white;
     padding: .5em;
     font-weight: bold;
     font-size: 18px;
+    margin: 0 auto;
 }
